@@ -1,6 +1,6 @@
 ```
-GooseCool1 / KakoyTo_Kot / Lubitel_Goosey / SA 
-Fullstack developer with experience since 2025
+[ Deleted ]
+Developer with experience since 2025
 ```
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
